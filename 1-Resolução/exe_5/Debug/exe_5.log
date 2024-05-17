@@ -1,0 +1,8 @@
+﻿  Data.cpp
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\1º Ano\2º Semestre\Programação Orientada a Objetos\1-Resolução\exe_5\Data.cpp(80,6): warning C4101: 'aux': unreferenced local variable
+  exe_5.cpp
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\1º Ano\2º Semestre\Programação Orientada a Objetos\1-Resolução\exe_5\exe_5.cpp(57,6): warning C4101: 'i': unreferenced local variable
+  Funcionario.cpp
+  Pessoa.cpp
+  Generating Code...
+  exe_5.vcxproj -> C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\1º Ano\2º Semestre\Programação Orientada a Objetos\1-Resolução\exe_5\Debug\exe_5.exe
