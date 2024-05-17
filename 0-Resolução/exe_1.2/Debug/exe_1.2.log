@@ -1,0 +1,3 @@
+﻿  exe_1.2.cpp
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\1º Ano\2º Semestre\Programação Orientada a Objetos\0-Resolução\exe_1.2\exe_1.2.cpp(8,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  exe_1.2.vcxproj -> C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\1º Ano\2º Semestre\Programação Orientada a Objetos\0-Resolução\exe_1.2\Debug\exe_1.2.exe

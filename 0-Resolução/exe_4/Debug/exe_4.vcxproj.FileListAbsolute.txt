@@ -1,0 +1,4 @@
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\1º Ano\2º Semestre\Programação Orientada a Objetos\0-Resolução\exe_4\Debug\exe_4.exe
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\1º Ano\2º Semestre\Programação Orientada a Objetos\0-Resolução\exe_4\Debug\exe_4.pdb
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Programação Orientada a Objetos\0-Resolução\exe_4\Debug\exe_4.exe
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\Programação Orientada a Objetos\0-Resolução\exe_4\Debug\exe_4.pdb
